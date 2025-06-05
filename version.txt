@@ -1,4 +1,5 @@
-Version: 1.0.0.0
+Version: 1.2.1.1
 Changelog: 
-1- 
-2- 
+1- Fixed Steam Integration
+2- Fixed Trial Verifecation
+3- Fixed Uptade Check
