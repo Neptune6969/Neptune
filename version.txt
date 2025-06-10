@@ -1,3 +1,4 @@
-Version: 1.2.2.2
+Version: 1.2.3.3
 Changelog: 
-1- Fixed Automatic Update 
+1- Fixed Trial licenses Bugs
+2- Improved Security
