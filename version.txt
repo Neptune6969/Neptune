@@ -1,4 +1,3 @@
-Version: 1.2.3.3
+Version: 1.2.4.4
 Changelog: 
-1- Fixed Trial licenses Bugs
-2- Improved Security
+1- Fixed Trial Ended Bug
