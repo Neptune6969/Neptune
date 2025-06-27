@@ -1,6 +1,3 @@
-Version: 1.2.5.5
+Version: 1.2.6.6
 Changelog: 
-1- Fixed Time Manipulation Bug
-2- Fixed Hwid Bug
-3- Make some improvments to the ui 
-4- Add Pages System To Game & Dlc Remover Pages
+1- Fixed Freeze when activating Trial License
