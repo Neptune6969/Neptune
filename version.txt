@@ -1,3 +1,2 @@
-Version: 1.2.7.7
+Version: 1.2.8.8
 Changelog: 
-1- Added Discord Rich Presence
